@@ -1,4 +1,4 @@
-package algorithm.labhw0307;
+package algorithm.lab_hw_0307;
 
 import java.util.Scanner;
 
