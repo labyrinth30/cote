@@ -1,5 +1,3 @@
-package algorithm.lab_hw_0328;
-
 import java.util.Scanner;
 
 public class MergeSort {
