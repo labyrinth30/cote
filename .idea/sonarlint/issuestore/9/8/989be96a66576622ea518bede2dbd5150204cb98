@@ -1,0 +1,6 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èƒŠûÿÿÿÿ8²Ê¯Šì1J$102fc594-b6a1-4559-8b08-27d7653b8664
+r	java:S106"+Replace this use of System.out by a logger.(÷‹¨£üÿÿÿÿ8ÂÊ¯Šì1J$cde034db-ee8f-49fd-8c6d-daec16390350
+m	java:S106%"+Replace this use of System.out by a logger.(ÛÃí8ÄÊ¯Šì1J$819fbfa0-a6ae-4d8b-883c-5344d164e64d
+m	java:S106'"+Replace this use of System.out by a logger.(Èÿúö8ÅÊ¯Šì1J$9c59015f-e9e7-48d5-86bb-2a78a650fb41
+r	java:S106."+Replace this use of System.out by a logger.(”¶®øÿÿÿÿ8ÆÊ¯Šì1J$888be2ee-0da7-4d4f-a752-8e502ff726ed
