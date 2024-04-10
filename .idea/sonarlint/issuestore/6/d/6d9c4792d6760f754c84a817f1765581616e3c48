@@ -1,12 +1,12 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ùí•H8ˆŞššì1J$87880187-0a33-4257-a13c-d5ccc543821d
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ùí•H8ˆŞššì1J$b47351f0-2180-4ded-a3fd-57eb6b70ec8a
 “
-java:S2259‹"J"NullPointerException" will be thrown when invoking method "treeDelete()".(şŞà‡şÿÿÿÿ8«ÊÆ™ì1J$d2761b54-7f6e-4e63-9be3-974d0ae7d511
-r	java:S106"+Replace this use of System.out by a logger.(İÏÌ¦ıÿÿÿÿ8²ÊÆ™ì1J$3c27b80b-1f51-4158-a4e6-8a279ec4e6a1
-m	java:S106"+Replace this use of System.out by a logger.(èÎ‚Ô8³ÊÆ™ì1J$74f287c8-7243-40b2-b47b-13a21c6d24ae
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8³ÊÆ™ì1J$7254aff8-a29a-4261-b63a-aea3ee1d0c5f
-r	java:S106"+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1J$5372aac5-5535-4009-996a-c0eed0c92d5e
-r	java:S106("+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1J$5e648869-d011-4b17-a9b5-aa89d1021629
-m	java:S1069"+Replace this use of System.out by a logger.(ÛÃí8¢Şššì1J$92b3648a-3cdd-4acb-8df4-a387ac7a50c7
-m	java:S106;"+Replace this use of System.out by a logger.(Èÿúö8¢Şššì1J$2c86692c-ce79-4942-a0ea-18442e7e21d6
-r	java:S106B"+Replace this use of System.out by a logger.(”¶®øÿÿÿÿ8¢Şššì1J$f59f4a1b-92c2-495c-8f9a-0734bdad2e6d
+java:S2259‹"J"NullPointerException" will be thrown when invoking method "treeDelete()".(şŞà‡şÿÿÿÿ8«ÊÆ™ì1J$b8075302-9b91-4f57-8991-a590e757a5b2
+r	java:S106"+Replace this use of System.out by a logger.(İÏÌ¦ıÿÿÿÿ8²ÊÆ™ì1J$93cbc6a9-2443-457e-a68f-545e9e37f2ef
+m	java:S106"+Replace this use of System.out by a logger.(èÎ‚Ô8³ÊÆ™ì1J$f6246c78-a334-4eb1-8eae-285de17a7c67
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8³ÊÆ™ì1J$558df2ba-bdcc-401f-b867-3b94a27781c9
+r	java:S106"+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1J$60ef43aa-46bb-4722-8807-f1d00854d82e
+r	java:S106("+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1J$89802d3d-1eaa-4e75-935e-0098634e8499
+m	java:S1069"+Replace this use of System.out by a logger.(ÛÃí8¢Şššì1J$2556157f-4feb-4f80-8528-462bb160d018
+m	java:S106;"+Replace this use of System.out by a logger.(Èÿúö8¢Şššì1J$198ef492-6177-43a3-9fb7-030c3238a26c
+r	java:S106B"+Replace this use of System.out by a logger.(”¶®øÿÿÿÿ8¢Şššì1J$0775b341-2556-4582-bae4-6b1b9f9fa9bc
