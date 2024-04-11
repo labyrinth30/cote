@@ -1,12 +1,0 @@
-
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò†ÿ¨8”ÊÆ™ì1J$7c12c70c-8fde-4523-8384-7dae52ad96d4
-“
-java:S2259‹"J"NullPointerException" will be thrown when invoking method "treeDelete()".(şŞà‡şÿÿÿÿ8«ÊÆ™ì1J$d3cd012b-f548-43a0-94b6-1e1b28c77ab2
-r	java:S106"+Replace this use of System.out by a logger.(İÏÌ¦ıÿÿÿÿ8®ÊÆ™ì1J$00fba7cb-2c5a-476c-9114-7f03baf93e1a
-m	java:S106"+Replace this use of System.out by a logger.(èÎ‚Ô8¯ÊÆ™ì1J$ccc80640-8ec9-45af-b35f-c0edc9b44ea6
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8°ÊÆ™ì1J$92e2338f-1a68-493b-88c1-7a47e908a2f9
-r	java:S106"+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8°ÊÆ™ì1J$f651371b-6af0-4591-af68-8c7a971da0dc
-r	java:S106("+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8°ÊÆ™ì1J$4bdc4591-3659-4621-bcc4-49ff6f0eb874
-m	java:S1069"+Replace this use of System.out by a logger.(ÛÃí8²ÊÆ™ì1J$e75da257-959c-4643-8f9b-0973455592df
-m	java:S106;"+Replace this use of System.out by a logger.(Èÿúö8³ÊÆ™ì1J$1e305987-1ee1-4eea-a2c6-b3e6b87c1810
-r	java:S106B"+Replace this use of System.out by a logger.(”¶®øÿÿÿÿ8³ÊÆ™ì1J$956c0caa-b38d-4497-9f06-9930989c56cd

@@ -1,12 +1,0 @@
-
-h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ùí•H8ˆŞššì1
-“
-java:S2259‹"J"NullPointerException" will be thrown when invoking method "treeDelete()".(şŞà‡şÿÿÿÿ8«ÊÆ™ì1J$86491b14-8f28-4def-9f68-9e358a558b69
-r	java:S106"+Replace this use of System.out by a logger.(İÏÌ¦ıÿÿÿÿ8²ÊÆ™ì1J$760fa2dd-24f8-48f6-8172-ddfa4a08a6b7
-m	java:S106"+Replace this use of System.out by a logger.(èÎ‚Ô8³ÊÆ™ì1J$183265fd-a02e-4613-866f-66b31717355e
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8³ÊÆ™ì1J$02c946a8-37ff-4e7d-8df2-6fc01121e8f8
-L	java:S106"+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1
-L	java:S106("+Replace this use of System.out by a logger.(µîùÿÿÿÿÿ8 Şššì1
-G	java:S1069"+Replace this use of System.out by a logger.(ÛÃí8¢Şššì1
-G	java:S106;"+Replace this use of System.out by a logger.(Èÿúö8¢Şššì1
-L	java:S106B"+Replace this use of System.out by a logger.(”¶®øÿÿÿÿ8¢Şššì1
