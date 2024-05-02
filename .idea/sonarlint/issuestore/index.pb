@@ -34,3 +34,5 @@ V
 &algorithm/lab_hw_0418/13차시_4_18.md,5/a/5ade09e3fdb49fc60ab2033669e207ff0a47d3cb
 V
 &algorithm/lab_hw_0430/14차시_4_30.md,3/0/30cfb774865f8800a1ffe944d34074f0b97eaac9
+V
+&algorithm/lab_hw_0502/15차시_5_02.md,9/2/92d0c1eda48e1063e2beb2a4cb51bcb8173071c1
