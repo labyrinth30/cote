@@ -2,7 +2,7 @@ package algorithm.lab_hw_0502;
 
 import java.util.Scanner;
 
-public class Main_201911016 {
+public class Hw8_1 {
     public static void main(String[] args) {
         System.out.println("hw8_1: 이윤하");
         Scanner input = new Scanner(System.in);
