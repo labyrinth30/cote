@@ -48,3 +48,7 @@ Y
 )algorithm/lab_hw_0514/Main_201911016.java,a/f/af653ac26704309edea0369a4068e4b65314ac5d
 F
 data_structure/prim.py,b/1/b126996c07a3239170a85e60a592fa8b6de71ebf
+S
+#algorithm/lab_hw_0516/19차시_0516,5/8/583f8d295f7a3b02653d6ee2dc45f98af07750d4
+W
+'algorithm/lab_hw_0516/19차시_05_16.md,6/5/653ff47bd7a4857b22a0e92ba7316cdf62d741f6
