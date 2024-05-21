@@ -50,3 +50,5 @@ F
 data_structure/prim.py,b/1/b126996c07a3239170a85e60a592fa8b6de71ebf
 W
 'algorithm/lab_hw_0516/19차시_05_16.md,6/5/653ff47bd7a4857b22a0e92ba7316cdf62d741f6
+W
+'algorithm/lab_hw_0521/20차시_05_21.md,d/3/d3cbdba70658bbe301dc2919e3873640e9d398bb

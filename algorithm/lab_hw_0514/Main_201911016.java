@@ -6,7 +6,6 @@ public class Main_201911016 {
 
     static Integer[] dp; // 메모이제이션을 위한 배열
     static int[] stair; // 입력받은 배열
-    static int[] path; // 경로를 저장할 배열
 
     static int find(int n) { // n번째 계단을 밟을 때 조건에 따른 최대값을 구하는 함수
         if(dp[n] == null) {
@@ -23,7 +22,6 @@ public class Main_201911016 {
         // 배열 초기화
         dp = new Integer[n + 1];
         stair = new int[n + 1];
-        path = new int[n + 1];
 
         for (int i = 1; i <= n; i++) { // 계단의 점수 입력
             stair[i] = sc.nextInt();
@@ -38,11 +36,6 @@ public class Main_201911016 {
             dp[2] = stair[1] + stair[2];
         }
         System.out.println(find(n));
-        int i = n;
-        while (i > 0) {
-            System.out.println(path[i] + " ");
-            i = path[i - 1];
-        }
         sc.close();
     }
 
