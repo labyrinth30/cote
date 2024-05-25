@@ -58,3 +58,5 @@ Y
 )algorithm/lab_hw_0523/Main_201911016.java,1/0/107fdede56fe8225e89f6ba54034ebc568c91a88
 F
 search/bellman_ford.py,9/4/94cc46f0a03a9555a73972696c703366b85c9dce
+A
+search/kruskal.py,6/d/6dc1ea3e597aa2170e12c6e9373e4cde9f61923b
