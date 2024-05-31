@@ -64,3 +64,5 @@ W
 'algorithm/lab_hw_0528/22차시_05_28.md,f/4/f49df85c83ca2451eb783a6130d637ab323e3c52
 W
 'algorithm/lab_hw_0530/23차시_05_30.md,1/b/1b48bbf701bfc3b3c82fe988a4b3942012ec13f8
+Y
+)algorithm/lab_hw_0530/Main_201911016.java,2/7/274edb3589adf3f3d56637815aabe2c6b2f38966
