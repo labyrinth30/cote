@@ -13,7 +13,7 @@ public class Main_201911016 {
         for (int i = 0; i < n; i++) {
             coins[i] = sc.nextInt();
         }
-        Arrays.sort(coins); // 동전 액면을 정렬함
+        Arrays.sort(coins); // 동전을 정렬함
 
         if (!isMultiple(coins)) System.out.println("그리디 알고리즘은 최적해를 보장하지 않습니다");
 
