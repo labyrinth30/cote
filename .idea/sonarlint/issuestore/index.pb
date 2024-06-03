@@ -68,3 +68,5 @@ Y
 )algorithm/lab_hw_0530/Main_201911016.java,2/7/274edb3589adf3f3d56637815aabe2c6b2f38966
 Q
 !search/longest_common_sequence.py,c/7/c71b1271d77f3b9a2241c64b83019d88a3b56999
+=
+search/bfs.py,6/0/6099d19a082d88a4a428d3b453f6f880a6e49fd2
